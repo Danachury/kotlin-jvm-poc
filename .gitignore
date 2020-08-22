@@ -1,0 +1,14 @@
+# IDE's
+.idea/
+*.iml
+
+# Gradle
+/.gradle/
+**/build/
+/native/
+/daemon/
+*.log
+/caches/
+/wrapper/
+/test/
+**/out/
